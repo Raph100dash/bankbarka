@@ -24,6 +24,7 @@ public class BankUI {
     JLabel Savings = new JLabel("THANK YOU FOR CHOOSING JD SAVINGS ACCOUNT");
     JButton Withdrawalbutton = new JButton("WITHDRAWAL");
     JButton getSaving_account = new JButton("DEPOSIT");
+    
 
     JTextField Savings_account2 = new JTextField("AMOUNT");
     JTextField Savings_pin = new JTextField("insert PIN");
